@@ -1,1 +1,1 @@
-web: gunicorn django_pertana.wsgi --log-file -
+web: gunicorn django_pertama.wsgi --log-file -
