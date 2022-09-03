@@ -1,1 +1,1 @@
-web: gunicorn aplikasiglan.wsgi --log-file -
+web: gunicorn dja.wsgi --log-file -
